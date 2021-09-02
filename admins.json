@@ -1,0 +1,10 @@
+{
+  "personas" : [
+    {"numero de lote": "fabian", "nickname":"fazt"},
+    {"nombre": "jesus", "nickname":"jesus123"},
+    {"precio": "maria", "nickname":"maria24"},
+    {"cantidad disponible": "luis", "nickname":"luis123"},
+    {"fecha de ingreso": "oscar", "nickname":"oscar12"},
+    {"nombre": "luis jesus", "nickname":"luis321"}
+  ]
+}
